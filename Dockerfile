@@ -1,1 +1,1 @@
-FROM mongo:6.0-alpine
+FROM mongo:latest
